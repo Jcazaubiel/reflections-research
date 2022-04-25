@@ -1,0 +1,7 @@
+10.1109/BioVis.2013.6664346
+
+The Molecular Control Toolkit: Controlling 3D molecular graphics via gesture and voice
+
+I chose this paper because it kind of resonated with a feeling that I have about many Bioinformatics tools, which is that they are often very difficult to use and that they reply on the user knowing a lot of obscure commands and key combinations that are often not really well documented. This paper aims to make 3D visualizations controllable via motion and voice commands, which sounds like a novel (and pretty futuristic) way to deal with complex visualization tools. Overall, the study used already available tools for motion recognition and mapped gestures to commands to control the visualization, and carried out user studies.
+
+The users answered a few questions about their proficiency with computers, modeling softwares, and in using motion control devices. Then, they were asked to use the program and their results were compared with using a traditional keyboard and mouse. The motion  control approach was slower than using a keyboard and mouse, however participants indicated a much higher preference for using motion controls. With more training and more familiarity with motion controls, it is possible that the speed gap will be bridged. Overall, this study is very encouraging for future motion controlled tools, because it highlights the intuitive advantages of it compared to keyboard commands, and with more familiarity and better technology it might one day be the norm for modelling controls. I, for one, would love to see that.
