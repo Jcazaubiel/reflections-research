@@ -1,0 +1,8 @@
+10.1109/BioVis.2013.6664349
+neuroMAP — Interactive graph-visualization of the fruit fly's neural circuit
+
+I chose this paper because I'm mostly interested in bio applications of visualization, and this seemed like an interesting paper that tackled a pretty complex issue - model neuron connections in a brain. From past experience, modeling any biological system with a lot of potential connections or interplay between different parts often gets unruly pretty fast. In order to be able to represent neuronal pathways along with other attributes in a way that was understandable, a scientist actually manually created a way to represent this type of data as abstract, 2D visualization. This representation was done manually and was so popular that a tool was created to produce these visualizations easily, and with interactivity.
+
+The authors used publically available data about fly neural connections to create their tool. They started by establishing conventions to map different parts of the neurons being represented to their counterpart in the graph. They did not use the exact same representations as the original drawing, some changes were made. The tool also has a few different possible visualization modes available: simple view, complete view, a 3D view, and 5 different layouts. Overall, the tool makes use of interactivity and tooltips to be able to encode more data into the representation without cluttering the graph. 
+
+During the building of this tool, they asked potential users and scientists for feedback and also tried to determine if it was effective, and it apparently lead to a better experience to query databases and represent information.
